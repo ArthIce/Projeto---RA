@@ -1,2 +1,1 @@
-# Projeto---RA
-Desenvolvimento de um jogo de tabuleiro que utiliza a realidade aumentada para auxiliar a prendizagem escolar.r 
+O projeto é sobre o desenvolvimento de um jogo educativo em formato de tabuleiro baseado em realidade aumentada (RA), cujo objetivo é facilitar o aprendizado de matérias escolares de maneira interativa e dinâmica, e ao mesmo tempo engajar os estudantes na aprendizagem. 
