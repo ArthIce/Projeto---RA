@@ -1,3 +1,7 @@
+Jogo de Perguntas e Respostas com Modelo de Tabuleiro em RA
+
+Descrição Geral:
+
 Este projeto aborda o desenvolvimento de um jogo educativo em formato de tabuleiro baseado em realidade aumentada (RA), cujo objetivo é facilitar o aprendizado de matérias escolares de maneira interativa e dinâmica, e ao mesmo tempo engajar os estudantes na aprendizagem. 
 
 
